@@ -28,6 +28,6 @@ Passionate about Machine Learning, AI & Web Development
 👉 [View all my projects](https://github.com/eko-hrn?tab=repositories)
 
 ## 📫 Connect with me
-- GitHub: https://github.com/eko-hrn  
+- LinkedIn: https://www.linkedin.com/in/ekohendrawan19  
 - Email: ekohrn79@gmail.com  
 - Instagram: https://instagram.com/luxdreamofsrpy
