@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Eko Hendrawan
 
-Information Systems Student at Universitas Pamulang  
+Information Systems Student  
 Passionate about Machine Learning, AI & Web Development  
 
 ## 🚀 What I'm Doing
@@ -25,7 +25,7 @@ Passionate about Machine Learning, AI & Web Development
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📂 Project
-👉 [View all my projects](https://github.com/eko-hrn?tab=repositories)
+[View all my projects](https://github.com/eko-hrn?tab=repositories)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/ekohendrawan19  
