@@ -11,11 +11,11 @@
 
 ---
 
-### ⚡ About Me & Core Focus
-* 🚀 **Full-Stack Engineering:** Developing end-to-end web applications with seamless user interfaces and high-availability server architecture.
-* ⚙️ **Backend & Systems:** Crafting clean, scalable RESTful APIs utilizing **Node.js/Express** and **Laravel**.
-* 🧠 **Applied AI & ML:** Integrating machine learning models for classification, data analysis, and predictive workflows into production-ready web services.
-* 🛠 **Engineering Standards:** Implementing modular clean code, MVC pattern, solid API validations, and automated version control workflows.
+### About Me & Core Focus
+*  **Full-Stack Engineering:** Developing end-to-end web applications with seamless user interfaces and high-availability server architecture.
+*  **Backend & Systems:** Crafting clean, scalable RESTful APIs utilizing **Node.js/Express** and **Laravel**.
+*  **Applied AI & ML:** Integrating machine learning models for classification, data analysis, and predictive workflows into production-ready web services.
+*  **Engineering Standards:** Implementing modular clean code, MVC pattern, solid API validations, and automated version control workflows.
 
 ---
 
@@ -43,12 +43,12 @@
 
 ---
 
-### 📂 Featured Repositories
+###  Featured Repositories
 [![View Projects](https://img.shields.io/badge/📂_Explore_All_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eko-hrn?tab=repositories)
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ekohendrawan19" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
