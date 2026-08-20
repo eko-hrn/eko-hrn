@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Eko+Hendrawan;Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Halo!+I'm+Eko+Hendrawan;Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
