@@ -62,5 +62,5 @@
 </p>
 
 <div align="center">
-  <img src="./ae52d968e7d8117170d2eeff6245ca5c.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" alt="Footer Animation" />
+  <img src="./ocean.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" alt="Footer Animation" />
 </div>
